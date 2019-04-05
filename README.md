@@ -9,5 +9,10 @@ Bytecode-Differentiation takes two .dex file as input then it gives out differen
 
 2.Run with following command.
 >python CodePrint.py
+***
+## Comparison with ORChooser
 
+The bytecode differentiation calulation method is compared with that of ORChooser and the result is shown in directory Bytecode-Differentiation.
+
+ORChooser is more accurate. However, k-gram runs more quickly.
 
